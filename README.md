@@ -1,7 +1,6 @@
 # Hand_tracking_30FPS
 <h2>Sobre</h2>
 <p>Projeto feito para poder rastrear os moviemntos da mão, podendo ser usado para poder desenvlover mais aplicações.</p>
- <img src="" alt="demo-web" height="425">
  <hr>
  <h2>Tecnologias usadas</h2>
  <ul>
